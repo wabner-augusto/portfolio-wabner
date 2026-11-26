@@ -1,0 +1,12 @@
+WABNER AUGUSTO — ARQUIVO EDITORIAL / CASES REFINADOS V2
+
+Abra index.html no navegador. Os cases são páginas HTML separadas em projetos/.
+
+Esta versão preserva a homepage e estrutura editorial aprovada e aprofunda as páginas iFood, Itaú e PicPay com registros de interface reais.
+
+Itaú: não confundir as explorações de simulação e aumento com funcionalidades comprovadamente lançadas no mesmo MVP.
+PicPay: os arquivos demonstram hub e caminhos de evolução; não demonstram a mecânica completa do Jogo do Limite.
+iFood: arquivo waiting incluído além do checkout.
+Portal Financeiro para Restaurantes (iFood): substitui Portal CX. O Figma foi indicado, mas ainda não foi possível inspecionar/exportar as telas; a página contém estrutura editorial sem alegações não verificadas.
+
+ATENÇÃO: protótipo de revisão privada. Não publicar imagens ou métricas sem revisar confidencialidade, autoria e autorização de uso.
